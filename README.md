@@ -1,5 +1,4 @@
-# Cypher-RAT-Bypass-Google-And-All-Antivirus
-Cypher RAT Bypass Google And All Antivirus
+How To Bypass Google Play Protect 
 
 
 
